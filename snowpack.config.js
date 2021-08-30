@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: '',
+    baseUrl: 'https://stefansan26.github.io/DOM_workshop1-avocados/',
   },
 }
